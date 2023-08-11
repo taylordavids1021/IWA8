@@ -37,5 +37,5 @@ const sarah = {
 	},
 }
 // console.log user . variable inside . convention name with data
-console.log(leo.address.postalCode)
-console.log(sarah.address.postalCode)
+console.log(leo.address.number, leo.address.street, leo.address.postalCode)
+console.log(sarah.address.number, sarah.address.street, sarah.address.postalCode)
